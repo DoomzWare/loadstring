@@ -1,0 +1,2 @@
+# loadstring
+loadstring lol
